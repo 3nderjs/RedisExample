@@ -1,0 +1,4 @@
+name: RedisExample
+version: '${project.version}'
+main: ru.ender.redisexample.Main
+api-version: '1.19'
